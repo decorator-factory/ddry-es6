@@ -1,0 +1,8 @@
+{
+    "spec": "spec",
+    "title": "spec",
+    "code": "dist",
+    "moduleTitles": {
+        "index": "dist/index"
+    }
+}
